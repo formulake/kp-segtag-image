@@ -39,6 +39,9 @@
 
 5. Use the GUI to select the desired functionality and provide the necessary inputs.
 
+## Easy Install
+Just run the **setup** (`setup.bat`) file in Windows and let that take care of building your venv and downloading the dependencies for you. To initialise the UI you can then use the **run-segtag** (`run-segtag.bat`) file.
+
 ## Contributing
 Contributions are welcome! Please create a pull request with your changes.
 
