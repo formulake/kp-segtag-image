@@ -3,3 +3,4 @@ gradio
 numpy
 Pillow
 opencv-python
+mediapipe
